@@ -1,0 +1,403 @@
+.nvb{
+    position: fixed;
+    left:78%; 
+   }
+
+   .mainheading{
+       margin-top: 53px;
+    
+       font-family: New York Extra Large;
+font-style: normal;
+font-weight: bold;
+font-size: 42px;
+line-height: 100%;
+/* or 54px */
+
+text-align: center;
+
+color: #000000;
+   }
+   .maintext{
+       margin-top: 31px;
+
+
+       font-family: SF Mono;
+       font-style: normal;
+       font-weight: normal;
+       font-size: 21px;
+       line-height: 170%;
+       /* or 34px */
+       
+       text-align: center;
+       
+       color: #000000;
+
+   }
+
+   
+.mainimage{
+    font-size: 60px; 
+    margin: 53px 0px 0px 0px;
+    padding: 0%; /
+   overflow: hidden;
+}
+   
+.line {
+    margin: 32px 0  0 0;
+    border: 2px solid #000000;;
+  }
+#mask{
+    
+    height: 56px;
+     width: 56px;
+     margin-top: 22px; 
+    display: inline;
+}
+#text{
+    margin-top: 20px;
+    display: inline;
+ }
+#icon{
+    display: inline; 
+    margin-left: 35%;}  
+
+.responsive-sc{
+    overflow: hidden;
+}
+.responsive-mob{
+    overflow: hidden;
+    display:none; 
+}
+@media only screen and (max-width: 480px){
+    .responsive-sc{
+        display:none;
+        overflow: hidden;
+    }
+    .responsive-mob{
+        display:unset !important;
+        overflow: hidden;
+    }
+}
+.midpara{
+    font-family: New York large;
+font-style: normal;
+font-weight: normal;
+font-size: 26px;
+line-height: 170%;
+/* or 34px */
+
+
+color: #000000;
+margin-top: 59px;
+
+}
+.mpara1{
+    font-family: New York Medium;
+font-style: normal;
+font-weight: normal;
+font-size: 26px;
+line-height: 170%;
+/* or 34px */
+
+
+color: #000000;
+margin-top: 56px;
+}
+.responsive-mobi{
+    overflow: hidden;
+    display:none; 
+}
+@media only screen and (max-width: 480px){
+    .responsive-sce{
+        display:none;
+        overflow: hidden;
+    }
+    .responsive-mobi{
+        display:unset !important;
+        overflow: hidden;
+    }
+}
+.midhead{
+    margin-top: 52px;
+    font-family: SF Pro Display;
+font-style: normal;
+font-weight: bold;
+font-size: 32px;
+line-height: 160%;
+/* or 51px */
+
+
+color: #000000;
+}
+.mpara2{
+    margin-top: 24px;
+    font-family: New York Medium;
+font-style: normal;
+font-weight: normal;
+font-size: 24px;
+line-height: 170%;
+/* or 34px */
+
+
+color: #000000;
+}
+.mpara3{
+    font-family: New York Medium;
+font-style: normal;
+font-weight: normal;
+font-size: 16px;
+line-height: 170%;
+/* or 27px */
+
+
+color: #000000;
+}
+.responsive-mobii{
+    overflow: hidden;
+    display:none; 
+}
+
+@media only screen and (max-width: 480px){
+    .responsive-scee{
+        display:none;
+        overflow: hidden;
+    }
+    .responsive-mobii{
+        display:unset !important;
+        overflow: hidden;
+    }
+}
+.babagimage{
+    margin-top: 52px;
+    overflow: hidden;
+}
+.imgtext{
+    margin-top: 12px;
+font-family: SF Pro Text;
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 140%;
+/* or 22px */
+
+text-align: center;
+
+color: #000000;
+}
+.mpara4{
+    margin-top: 54px;
+    font-family: New York Medium;
+font-style: normal;
+font-weight: normal;
+font-size: 24px;
+line-height: 170%;
+/* or 34px */
+
+
+color: #000000;
+}
+.mpara5{
+    margin-top: 42px;
+    font-family: New York Medium;
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 170%;
+/* or 27px */
+
+
+color: #000000;
+}
+.responsive-mobiii{
+    overflow: hidden;
+    display:none; 
+}
+
+@media only screen and (max-width: 480px){
+    .responsive-sceee{
+        display:none;
+        overflow: hidden;
+    }
+    .responsive-mobiii{
+        display:unset !important;
+        overflow: hidden;
+    }
+}
+.list{
+    margin-top: 32px;
+    font-family: New York Medium;
+font-style: normal;
+font-weight: normal;
+font-size: 20px;
+line-height: 170%;
+/* identical to box height, or 34px */
+
+
+color: #000000;
+}
+.listitem{
+    /* margin-top: 32px; */
+    font-family: New York Medium;
+font-style: normal;
+font-weight: normal;
+font-size: 20px;
+line-height: 170%;
+/* or 34px */
+
+
+color: #000000;
+}
+.listtext{
+    margin-top: 53px;
+    font-family: New York Medium;
+font-style: normal;
+font-weight: normal;
+font-size: 20px;
+line-height: 170%;
+/* or 34px */
+
+
+color: #000000;
+}
+.listtextl{
+    margin-top: 52px;
+    font-family: New York Medium;
+font-style: normal;
+font-weight: normal;
+font-size: 20px;
+line-height: 170%;
+/* or 34px */
+
+
+color: #000000;
+}
+.listm{
+    margin-top: 42px;
+    font-family: SF Pro Text;
+font-style: normal;
+font-weight: 500;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+
+letter-spacing: 0.03em;
+
+color: #0C0C0C;
+}
+.endt{
+    display: flex;
+    
+}
+.endbr{
+    
+    margin-top: 34px;
+    border-top: 1px dashed #000000;
+}
+.imgend{
+    display: inline;
+    height: 70px;
+    width: 70px;
+    margin-top: 30px;
+}
+.endpar{
+    margin-top: 36px;    
+    display: inline;
+    margin-left: 24px;
+    font-family: SF Pro Text;
+font-style: normal;
+font-weight: 400px;
+font-size: 16px;
+line-height: 160%;
+/* or 26px */
+
+letter-spacing: 0.05em;
+/* text-transform: uppercase; */
+
+color: #0C0C0C;
+}
+
+.responsive-mlist{
+    overflow: hidden;
+    display:none; 
+}
+
+@media only screen and (max-width: 480px){
+    .responsive-list{
+        display:none;
+        overflow: hidden;
+    }
+    .responsive-mlist{
+        display:unset !important;
+        overflow: hidden;
+    }
+}
+
+
+.end-line{
+    margin-top: 132px;
+
+    border-top: 3px solid rgb(36, 36, 36);
+}
+.look-img{
+position: relative;
+top: -25px;
+}
+.look{
+    position: static;
+    overflow: hidden;
+}
+.btnmain{
+    font-family: New York Extra Large;
+font-style: normal;
+font-weight: 900;
+font-size: 44px;
+line-height: 53px;
+/* identical to box height */
+
+text-align: center;
+
+color: #000000;
+
+}
+.rmar{
+    margin: 32px 28px 10px 28px;
+}
+.imgparbt{
+    font-family: SF Pro Display;
+font-style: normal;
+font-weight: 500;
+font-size: 26px;
+line-height: 120%;
+/* or 26px */
+
+text-align: center;
+
+color: #000000;
+}
+.samefont{
+    font-family:NewYorkSmallRegular;
+}
+.inputbox{
+    border: 2px solid black;
+    border-top: 8px solid black;
+   padding: 50px;
+}
+.centerptxt{
+    text-align: center;
+}
+
+.responsive-btmob{
+    overflow: hidden;
+    display:none; 
+}
+
+@media only screen and (max-width: 480px){
+    .responsive-btsce{
+        display:none;
+        overflow: hidden;
+    }
+    .responsive-btmob{
+        display:unset !important;
+        overflow: hidden;
+    }
+}
